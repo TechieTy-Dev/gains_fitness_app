@@ -273,8 +273,8 @@ position: relative;
 }
 
 .track {
-  animation: marquee 15s linear infinite;
-  -webkit-animation: marquee 15s linear infinite;
+  animation: marquee 35s linear infinite;
+  -webkit-animation: marquee 35s linear infinite;
 }
 
 @keyframes marquee {
